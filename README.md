@@ -54,8 +54,8 @@
 
 <h4 align="left">Front End Development</h4>
 <ul align="left">
-  <li><strong><a href="https://github.com/SelsabeelA/LabaratoryAssignment">Laboratory Management Website: </strong> Created a website for managing a laboratory using HTML, CSS, and Javascript and Django.</li>
-  <li><strong><a href="https://github.com/SelsabeelA/Toffee">Toffee Website:</strong> Created an e shopping website using HTML, CSS, and JavaScript. Has OTP code functionality.</li>
+  <li><strong><a href="https://github.com/SelsabeelA/LabaratoryAssignment">Laboratory Management Website: </strong> Created a website for managing a laboratory using HTML, CSS, and Javascript and Django</li>
+  <li><strong><a href="https://github.com/SelsabeelA/Toffee">Toffee Website:</strong> Created an e shopping website using HTML, CSS, and JavaScript. Has OTP code functionality</li>
 </ul>
 
 <h4 align="left">Data Analysis</h4>
@@ -68,7 +68,7 @@
 <h4 align="left">Machine Learning</h4>
 <ul align="left">
   <li><strong><a href="https://github.com/Basma2423/Brain-Tumor-Detection">Brain Tumour Detector </strong> using ResNet</li>
-  <li><strong><a href="https://github.com/SelsabeelA/Fashion-MNIST-NN">Fashion MNIST Neural Network.</li>
+  <li><strong><a href="https://github.com/SelsabeelA/Fashion-MNIST-NN">Fashion MNIST Neural Network *not CNN for the sake of learning*</li>
   <li><strong><a href="https://github.com/zainnabtarrek/DeepFake-Videos-Detection-PyTorch">Deepfake Video Detector</strong> using CNN on pre-trained models & ViT using PyTorch</li>
   <li><strong><a href="https://huggingface.co/spaces/Abdo-Alshoki/Video-Violence-Detection">Violence Video Detector using ResNet R3D-18 </li>
   <li><strong><a href="https://github.com/SelsabeelA/MINST_Project">KNN Classifier + SVM Classifier + Gaussian Naive Bayes Classifier on MNIST dataset</li>
@@ -89,8 +89,8 @@
 <h4 align="left">Miscellaneous</h4>
 <ul align="left">
   <li><strong><a href="https://github.com/SelsabeelA/LogicResolutionAlgorithm">Logic Resolution Algorithm</strong> That Converts Predicates to CNF and Applies Resolution (deductive learning).</li>
-  <li><strong><a href="https://github.com/SelsabeelA/WeBots">Robotic Path Planner using WeBots.</li>
-  <li><strong><a href="https://github.com/SelsabeelA/ScheduleSimulator">Process Schedule Simulator.</li>
+  <li><strong><a href="https://github.com/SelsabeelA/WeBots">Robotic Path Planner using WeBots</li>
+  <li><strong><a href="https://github.com/SelsabeelA/ScheduleSimulator">Process Schedule Simulator</li>
   <li><strong><a href="https://github.com/SelsabeelA/Verilog)">Verilog</li>
   <li><strong><a href="https://github.com/SelsabeelA/Photo-Editor">Photo Editor from Scratch</li>
 
