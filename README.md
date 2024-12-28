@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a senior computer science student from 🇸🇩 in Cairo University.<br><br>- 🔭 I’m working as a Data Scientist at noQ. <br>- 📚 I'm currently learning numerical analysis and data scraping. <br>- 🐹 I really like hamsters!</p>
+<p align="left">I'm a senior computer science AI student from 🇸🇩 in Cairo University.<br><br>- 🔭 I’m working as a Data Scientist at noQ. <br>- 📚 I'm currently learning numerical analysis and data scraping. <br>- 🐹 I really like hamsters!</p>
 
 ###
 
@@ -55,7 +55,7 @@
 <h4 align="left">Front End Development</h4>
 <ul align="left">
   <li><strong><a href="https://github.com/SelsabeelA/LabaratoryAssignment">Laboratory Management Website: </strong> Created a website for managing a laboratory using HTML, CSS, and Javascript and Django.</li>
-  <li><strong><a href="https://github.com/SelsabeelA/Toffee">Toffee Website:</strong> Created an e shopping website showcasing my skills and projects using HTML, CSS, and JavaScript. Has OTP code functionality.</li>
+  <li><strong><a href="https://github.com/SelsabeelA/Toffee">Toffee Website:</strong> Created an e shopping website using HTML, CSS, and JavaScript. Has OTP code functionality.</li>
 </ul>
 
 <h4 align="left">Data Analysis</h4>
