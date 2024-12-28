@@ -67,6 +67,7 @@
 
 <h4 align="left">Machine Learning</h4>
 <ul align="left">
+  <li><strong><a href="https://github.com/Basma2423/Brain-Tumor-Detection">Brain Tumour Detector </strong> using ResNet</li>
   <li><strong><a href="https://github.com/SelsabeelA/Fashion-MNIST-NN">Fashion MNIST Neural Network.</li>
   <li><strong><a href="https://github.com/zainnabtarrek/DeepFake-Videos-Detection-PyTorch">Deepfake Video Detector</strong> using CNN on pre-trained models & ViT using PyTorch</li>
   <li><strong><a href="https://huggingface.co/spaces/Abdo-Alshoki/Video-Violence-Detection">Violence Video Detector using ResNet R3D-18 </li>
