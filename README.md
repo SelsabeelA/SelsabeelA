@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/selsabeel-a-9ba430219/" target="_blank">
+  <a href="https://www.linkedin.com/in/selsabeela/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://noq2.slack.com/team/U07135TQM34" target="_blank">
@@ -62,7 +62,7 @@
 <ul align="left">
   <li><a href="https://github.com/SelsabeelA/World-Happiness-Report-Analysis"><strong>World Happiness Analysis:</strong> Applied regression models to analyze the World Happiness Report data.</a></li>
   <li><a href="https://github.com/SelsabeelA/Library-Management-System"><strong>Library Management System:</strong> Developed using SQL and database management techniques.</a></li>
-  <li><a href="link_to_project"><strong>PowerBI Dashboard on Sales Data:</strong> A sales data analysis dashboard created using PowerBI.</a></li>
+  <li><a href="https://github.com/SelsabeelA/SalesPowerBIDashboard/t"><strong>PowerBI Dashboard on Sales Data:</strong> A sales data analysis dashboard created using PowerBI.</a></li>
 </ul>
 
 <h4 align="left">Machine Learning</h4>
@@ -78,10 +78,10 @@
 <h4 align="left">Generative Algorithms</h4>
 <ul align="left">
   <li><a href="https://github.com/SelsabeelA/PCA-Code"><strong>PCA Feature Reduction:</strong> Implemented Principal Component Analysis (PCA) for dimensionality reduction.</a></li>
-  <li><a href="update this"><strong>PCA with Hamming for Unsupervised Learning:</strong> Applied PCA with Hamming distance for unsupervised learning tasks.</a></li>
+  <li><a href="https://colab.research.google.com/drive/1vc1jxBCDWUxxmI8EKzndbtmX7MaPkvWi?usp=sharing"><strong>PCA with Hamming for Unsupervised Learning:</strong> Applied PCA with Hamming distance for unsupervised learning tasks.</a></li>
   <li><a href="https://github.com/SelsabeelA/Auto-Encoder-PCA"><strong>Auto Encoder:</strong> Developed an autoencoder for feature learning and compression.</a></li>
   <li><a href="https://github.com/SelsabeelA/Word2VecModel"><strong>Word2Vec Model:</strong> Implemented the Word2Vec model for word embedding generation.</a></li>
-  <li><a href="update this"><strong>VAE Encoder on Grayscale + RGB + GUI:</strong> Applied Variational Autoencoders (VAE) with a graphical user interface.</a></li>
+  <li><a href="https://github.com/SelsabeelA/Auto-Encoder-PCA"><strong>VAE Encoder on Grayscale + RGB + GUI:</strong> Applied Variational Autoencoders (VAE) with a graphical user interface.</a></li>
 </ul>
 
 <h4 align="left">Miscellaneous</h4>
