@@ -60,9 +60,9 @@
 
 <h4 align="left">Data Analysis</h4>
 <ul align="left">
-  <li><a href="https://github.com/SelsabeelA/World-Happiness-Report-Analysis"><strong>World Happiness Analysis:</strong> Applied regression models to analyze the World Happiness Report data.</a></li>
+  <li><a href="https://github.com/SelsabeelA/World-Happiness-Report-Analysis"><strong>World Happiness Analysis:</strong> Applied extensive EDA and then regression models to analyze the World Happiness Report data.</a></li>
   <li><a href="https://github.com/SelsabeelA/Library-Management-System"><strong>Library Management System:</strong> Developed using SQL and database management techniques.</a></li>
-  <li><a href="https://github.com/SelsabeelA/SalesPowerBIDashboard/t"><strong>PowerBI Dashboard on Sales Data:</strong> A sales data analysis dashboard created using PowerBI.</a></li>
+  <li><a href="https://github.com/SelsabeelA/SalesDataDashboard"><strong>PowerBI Dashboard on Sales Data:</strong> A sales data analysis dashboard created using PowerBI.</a></li>
 </ul>
 
 <h4 align="left">Machine Learning</h4>
