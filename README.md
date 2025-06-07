@@ -7,10 +7,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/selsabeela/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://noq2.slack.com/team/U07135TQM34" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo" />
-  </a>
 </div>
 
 ###
@@ -23,7 +19,7 @@
 
 ###
 
-<p align="left">I'm a senior computer science AI student from 🇸🇩 in Cairo University.<br><br>- 🔭 I’m working as a Data Scientist at noQ. <br>- 📚 I'm currently learning numerical analysis and data scraping. <br>- 🐹 I really like hamsters!</p>
+<p align="left">I'm a senior computer science AI student from 🇸🇩 and 🇸🇪 in Cairo University.<br><br>- 🔭 I’m an aspiring ML engineer <br>- 📚 I'm currently learning Azure and NLP <br>- 🐹 I really like hamsters, hiking, and ice-skating! </p>
 
 ###
 
