@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm a senior computer science AI student from 🇸🇩 and 🇸🇪 in Cairo University.<br><br>- 🔭 I’m an aspiring ML engineer <br>- 📚 I'm currently learning Azure and NLP <br>- 🐹 I really like hamsters, hiking, and ice-skating! </p>
+<p align="left">I'm a senior computer science AI student from 🇸🇩 and 🇸🇪 in Cairo University.<br><br>- 🔭 I’m an aspiring ML engineer <br>- 📚 I'm currently learning Azure and NLP <br>- 🐹 I really like hamsters, hiking, and ice-skating. Been getting into långfärdsskridskoåkning lately! </p>
 
 ###
 
